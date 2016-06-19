@@ -1,0 +1,13 @@
+{
+  "title": "Auth0 Extension",
+  "name": "auth0-extension",
+  "version": "1.0.0",
+  "author": "auth0",
+  "description": "Auth0 Extension",
+  "type": "application",
+  "repository": "https://github.com/mcastany/auth0-extension-boilerplate-react-redux",
+  "keywords": [
+    "auth0",
+    "extension"
+  ]
+}
